@@ -1,4 +1,4 @@
-Project 2: Dockerizing and Deploying Python Application to Kubernetes
+# Project 2: Dockerizing and Deploying Python Application to Kubernetes
 
 This project demonstrates how to Dockerize a Python application and deploy it to Kubernetes. The application displays the current time in Toronto, Canada.
 
